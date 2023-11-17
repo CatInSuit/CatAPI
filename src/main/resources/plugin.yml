@@ -1,0 +1,4 @@
+name: CatAPI
+version: '${project.version}'
+main: com.catinsuit.catapi.CatAPI
+api-version: 1.17
